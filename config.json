@@ -40,7 +40,7 @@
         "native_id": "applovin-native-xxx"
       },
       "custom_ads": {
-        "enabled": true,
+        "enabled": false,
         "respect_cooldown": false,
         "banner": {
           "image_url": "https://yourdomain.com/ads/banner.jpg",
