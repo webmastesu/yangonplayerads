@@ -26,7 +26,7 @@
         "settings_banner": false
       },
       "admob": {
-        "enabled": true,
+        "enabled": false,
         "banner_id": "ca-app-pub-3940256099942544/9214589741",
         "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
         "app_open_id": "ca-app-pub-3940256099942544/9257395921",
@@ -40,23 +40,23 @@
         "native_id": "applovin-native-xxx"
       },
       "custom_ads": {
-        "enabled": false,
+        "enabled": true,
         "respect_cooldown": false,
         "banner": {
-          "image_url": "https://yourdomain.com/ads/banner.jpg",
-          "click_url": "https://yourdomain.com/redirect?offer=banner1",
+          "image_url": "https://cdn.apyarx.site/6c30d676c7954c6b9c56c89fcdbd4a32:educationbox/2025/05/apyar.org-apkimg-1000250.gif",
+          "click_url": "https://apyar.org",
           "width": 320,
           "height": 50
         },
         "interstitial": {
-          "image_url": "https://yourdomain.com/ads/inter.jpg",
-          "click_url": "https://yourdomain.com/redirect?offer=inter1",
+          "image_url": "https://img.freepik.com/free-vector/flat-design-cyber-monday-banners-with-photo_23-2148344655.jpg",
+          "click_url": "https://google.com",
           "width": 320,
           "height": 480
         },
         "app_open": {
-          "image_url": "https://yourdomain.com/ads/open.jpg",
-          "click_url": "https://yourdomain.com/redirect?offer=open1",
+          "image_url": "https://cdn7.slideserve.com/13391910/8-ways-to-make-your-online-banner-ads-stand-out-n.jpg",
+          "click_url": "https://anubisscan.com",
           "width": 320,
           "height": 480
         }
