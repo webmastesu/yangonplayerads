@@ -10,7 +10,7 @@
     },
     "ads": {
       "global_enabled": true,
-      "test_mode": false,
+      "test_mode": true,
       "cooldown": {
         "interstitial": 60,
         "reward": 90,
