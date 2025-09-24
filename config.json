@@ -1,0 +1,66 @@
+{
+  "app_config": {
+    "version": {
+      "latest": "1.2.0",
+      "minimum_supported": "1.0.0",
+      "update_required": true,
+      "update_url": "https://play.google.com/store/apps/details?id=com.example.app",
+      "force_update": false,
+      "update_message": "New features available! Update now for better experience."
+    },
+    "ads": {
+      "global_enabled": true,
+      "test_mode": false,
+      "cooldown": {
+        "interstitial": 60,
+        "reward": 90,
+        "app_open": 120,
+        "banner_refresh": 30,
+        "native_refresh": 60
+      },
+      "placement": {
+        "home_banner": true,
+        "player_interstitial": true,
+        "history_banner": true,
+        "favorites_banner": true,
+        "settings_banner": false
+      },
+      "admob": {
+        "enabled": true,
+        "banner_id": "ca-app-pub-xxx/xxx",
+        "interstitial_id": "ca-app-pub-xxx/xxx",
+        "app_open_id": "ca-app-pub-xxx/xxx",
+        "reward_id": "ca-app-pub-xxx/xxx",
+        "native_id": "ca-app-pub-xxx/xxx"
+      },
+      "applovin": {
+        "enabled": false,
+        "banner_id": "applovin-banner-xxx",
+        "interstitial_id": "applovin-inter-xxx",
+        "native_id": "applovin-native-xxx"
+      },
+      "custom_ads": {
+        "enabled": true,
+        "respect_cooldown": false,
+        "banner": {
+          "image_url": "https://yourdomain.com/ads/banner.jpg",
+          "click_url": "https://yourdomain.com/redirect?offer=banner1",
+          "width": 320,
+          "height": 50
+        },
+        "interstitial": {
+          "image_url": "https://yourdomain.com/ads/inter.jpg",
+          "click_url": "https://yourdomain.com/redirect?offer=inter1",
+          "width": 320,
+          "height": 480
+        },
+        "app_open": {
+          "image_url": "https://yourdomain.com/ads/open.jpg",
+          "click_url": "https://yourdomain.com/redirect?offer=open1",
+          "width": 320,
+          "height": 480
+        }
+      }
+    }
+  }
+}
