@@ -5,11 +5,11 @@
       "minimum_supported": "1.0.0",
       "update_required": true,
       "update_url": "https://play.google.com/store/apps/details?id=com.example.app",
-      "force_update": false,
+      "force_update": true,
       "update_message": "New features available! Update now for better experience."
     },
     "ads": {
-      "global_enabled": true,
+      "global_enabled": false,
       "test_mode": true,
       "cooldown": {
         "interstitial": 60,
@@ -40,7 +40,7 @@
         "native_id": "applovin-native-xxx"
       },
       "custom_ads": {
-        "enabled": true,
+        "enabled": false,
         "respect_cooldown": false,
         "banner": {
           "image_url": "https://cdn.apyarx.site/6c30d676c7954c6b9c56c89fcdbd4a32:educationbox/2025/05/apyar.org-apkimg-1000250.gif",
