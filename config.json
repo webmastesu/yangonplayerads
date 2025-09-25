@@ -26,7 +26,7 @@
         "settings_banner": false
       },
       "admob": {
-        "enabled": true,
+        "enabled": false,
         "banner_id": "ca-app-pub-3940256099942544/9214589741",
         "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
         "app_open_id": "ca-app-pub-3940256099942544/9257395921",
@@ -40,7 +40,7 @@
         "native_id": "applovin-native-xxx"
       },
       "custom_ads": {
-        "enabled": false,
+        "enabled": true,
         "respect_cooldown": false,
         "banner": {
           "image_url": "https://cdn.apyarx.site/6c30d676c7954c6b9c56c89fcdbd4a32:educationbox/2025/05/apyar.org-apkimg-1000250.gif",
