@@ -43,8 +43,8 @@
         "enabled": false,
         "respect_cooldown": false,
         "banner": {
-          "image_url": "https://cdn.apyarx.site/6c30d676c7954c6b9c56c89fcdbd4a32:educationbox/2025/05/apyar.org-apkimg-1000250.gif",
-          "click_url": "https://apyar.org",
+          "image_url": "9",
+          "click_url": "9",
           "width": 320,
           "height": 50
         },
@@ -55,8 +55,8 @@
           "height": 480
         },
         "app_open": {
-          "image_url": "https://cdn7.slideserve.com/13391910/8-ways-to-make-your-online-banner-ads-stand-out-n.jpg",
-          "click_url": "https://anubisscan.com",
+          "image_url": "8",
+          "click_url": "8",
           "width": 320,
           "height": 480
         }
